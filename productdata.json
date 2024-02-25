@@ -1,0 +1,61 @@
+[
+   {
+    "id":1,
+    "Name":"CHAIR1",
+    "Price":500,
+     "img": "image/11.png"
+    },
+    
+    {
+        "id":2,
+        "Name":"CHAIR2",
+        "Price":400,
+         "img": "image/12.png"
+        },
+        {
+            "id":3,
+            "Name":"CHAIR3",
+            "Price":200,
+             "img": "image/13.png"
+            },
+
+            {
+                "id":4,
+                "Name":"CHAIR4",
+                "Price":300,
+                 "img": "image/14.png"
+             },
+             {
+                "id":5,
+                "Name":"CHAIR5",
+                "Price":350,
+                 "img": "image/4.png"
+                },
+                
+                {
+                    "id":6,
+                    "Name":"CHAIR6",
+                    "Price":400,
+                     "img": "image/7.png"
+                    },
+                    
+                    {
+                        "id":7,
+                        "Name":"CHAIR7",
+                        "Price":600,
+                         "img": "image/2.png"
+                        },
+    
+                        
+            
+                        {
+                            "id":8,
+                            "Name":"CHAIR8",
+                            "Price":200,
+                             "img": "image/8.png"
+                            }
+                            
+                            
+        
+
+    ]
